@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/likedan/cadens?style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="License" />
+  <img src="https://img.shields.io/github/stars/Tofulabai/cadens?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
   <img src="https://img.shields.io/badge/python-3.12-blue" alt="Python" />
   <img src="https://img.shields.io/badge/next.js-15-black" alt="Next.js" />
 </p>
@@ -94,7 +94,7 @@ Every project in this space makes trade-offs. Here's where Cadens sits:
 | **Domain customization** | Prompts + tools + skills layers | Plugins | Visual blocks | Limited | MCP config | Code only | Code only | Workflow templates | Company templates |
 | **Built-in auth** | Yes (JWT + OAuth + refresh rotation) | Yes | Yes | Basic | N/A | No | No | Yes | Basic |
 | **Hosted for your team** | Yes | Yes | Yes | Yes | N/A (IDE plugin) | Partial | No | Yes | Yes |
-| **License** | Apache 2.0 | MIT | Apache 2.0 | MIT | Apache 2.0 | MIT | MIT | FSL (not OSI) | MIT |
+| **License** | MIT | MIT | MIT | MIT | MIT | MIT | MIT | FSL (not OSI) | MIT |
 | **Origin** | Extracted from production | Built as product | Built as product | Research project | IDE tool | Framework-first | Framework-first | Automation tool | Built as product |
 
 ### The gap Cadens fills
@@ -252,8 +252,8 @@ Marketing is just where we started. **This is for any non-technical team.**
 I'm preparing the full source for public release. Honestly, a star tells me someone out there wants this -- and that makes me ship faster.
 
 <p align="center">
-  <a href="https://github.com/likedan/cadens">
-    <img src="https://img.shields.io/github/stars/likedan/cadens?style=for-the-badge&color=yellow" alt="Star on GitHub" />
+  <a href="https://github.com/Tofulabai/cadens">
+    <img src="https://img.shields.io/github/stars/Tofulabai/cadens?style=for-the-badge&color=yellow" alt="Star on GitHub" />
   </a>
 </p>
 
@@ -269,7 +269,7 @@ I'm preparing the full source for public release. Honestly, a star tells me some
 
 ## License
 
-Apache 2.0. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
 
 ---
 
