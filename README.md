@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center">Cadens</h1>
   <p align="center">
-    <strong>Claude Code power. Non-tech user friendly interface. Any domain.</strong>
+    <strong>Self-hostable AI agent with code execution, web search, and dashboards. Shape it to your business.</strong>
     <br />
     <br />
-    The open-source AI agent platform extracted from production.<br/>
-    Not a framework. Not a library. A complete, working application.
+    Extracted from production. Not a framework. Not a library. A complete, working application.
   </p>
 </p>
 
